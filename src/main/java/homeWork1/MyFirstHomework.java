@@ -27,27 +27,7 @@ public class MyFirstHomework {
                  " and your hobby is: " + hobby);
 
 
-
-
-
-
-
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
