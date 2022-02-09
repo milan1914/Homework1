@@ -1,0 +1,13 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ö­œ¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü«øÎùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘à½‡øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì —
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·Äæßÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş±È»ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©èÄó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÊè¯
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¦ô.
+]
+java:S2184	"BCast one of the operands of this division operation to a "double".(¶˜çÑøÿÿÿÿ

@@ -1,0 +1,19 @@
+
+Z
+java:S1854
+"DRemove this useless assignment to local variable "someRandomString".(äåˆ
+X
+java:S1854"BRemove this useless assignment to local variable "someRandomChar".(œó§
+M
+java:S1854"7Remove this useless assignment to local variable "age".(œş½
+>
+java:S1481"(Remove this unused "age" local variable.(œş½
+I
+java:S1481"3Remove this unused "someRandomChar" local variable.(œó§
+K
+java:S1481
+"5Remove this unused "someRandomString" local variable.(äåˆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜æ²²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øåôÇüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øåôÇüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö­¹Ø

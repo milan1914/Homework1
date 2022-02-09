@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰Œ‡éþÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ñ—„ñþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã®æãüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¾¨ÊT
+U
+java:S1128":Remove this unused import 'java.io.OptionalDataException'.(á´œ·ûÿÿÿÿ

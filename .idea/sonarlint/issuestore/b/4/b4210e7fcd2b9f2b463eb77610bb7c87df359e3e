@@ -1,0 +1,18 @@
+
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(úàú
+K
+java:S2209"5Change this instance-reference to a static reference.(úàú
+X
+java:S1854"=Remove this useless assignment to local variable "dogAction".(¸„’ ùÿÿÿÿ
+I
+java:S1481".Remove this unused "dogAction" local variable.(¸„’ ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôÁèæ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(ÚíÇ­
+g
+java:S1104"QMake breed a static final constant or non-public and provide accessors if needed.(€Ò—½
+A
+java:S1444"+Make this "public static breed" field final(€Ò—½
