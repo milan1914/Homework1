@@ -4,8 +4,10 @@ import java.util.Scanner;
 
 public class HomeWork3 {
     public static void main(String[] args) {
-        printDayOfTheWeek(1);
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Please enter a number for 1 to 7:");
+        int enteredDay = scanner.nextInt();
+        printDayOfTheWeek(enteredDay);
 
         // witch number is greater
         int number1 = 10;
@@ -42,7 +44,7 @@ public class HomeWork3 {
     //Day of the week
     public static void printDayOfTheWeek(int dayOfTheWeek){
 
-        System.out.println("Please enter a number for 1 to 7:");
+
         switch (dayOfTheWeek){
             case 1:
                 System.out.println("Selected day is Monday");
