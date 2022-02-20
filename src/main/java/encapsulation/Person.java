@@ -43,14 +43,14 @@ public class Person {
     }
 
     public void buyProduct(Product product){
-        if(this.getMoney() >= product.getCost()){
+       // if(this.getMoney() >= product.getCost()){
             this.bagOdProducts.add(product);
-            this.setMoney(this.getMoney() - product.getCost());
+         //   this.setMoney(this.getMoney() - product.getCost());
             System.out.printf("\"%s bough %s\"\n", this.getName(), product.getName());
-        }else {
-            System.out.printf("\"%s can`t afford %s\"\n", this.getName(), product.getName());
+       // }else {
+          //  System.out.printf("\"%s can`t afford %s\"\n", this.getName(), product.getName());
         }
-    }
+
     public void printItemsPerUser(){
         if(bagOdProducts.size() == 0){
             System.out.printf("\"\\\"%s Nothing both %s\\\"\\n\", this.getName()");

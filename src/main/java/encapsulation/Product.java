@@ -17,8 +17,8 @@ public class Product {
             System.out.println("Invalid product name entry!");
     }
 
-    public double getCost() {
-        return cost;
+    //public double getCost() {
+        //return cost;
     }
 
     public void setCost(double cost) {
@@ -30,11 +30,11 @@ public class Product {
         this.cost = cost;
     }
 
-    public Product (String name, double cost){
-        setName(name);
-        setCost(cost);
+   // public Product (String name, double cost){
+        //setName(name);
+        //setCost(cost);
         }
-    }
+    //}
 
-}
+//}
 
