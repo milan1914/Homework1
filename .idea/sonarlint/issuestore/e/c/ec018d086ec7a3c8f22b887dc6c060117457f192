@@ -1,0 +1,19 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ
+G
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³ÜéÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü–Æž
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔùùÒýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ÆþÅÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ÊÕÿ‹
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Ï•Œ½
+J
+java:S1066$"/Merge this if statement with the enclosing one.(î¹ŸÎúÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÂÔÛ
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒøÆîýÿÿÿÿ
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½î²û
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µãë°
