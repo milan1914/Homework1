@@ -17,3 +17,27 @@ W
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 V
 &src/main/java/HomeWork4/HomeWork4.java,e\c\ec018d086ec7a3c8f22b887dc6c060117457f192
+W
+'src/main/java/encapsulation/Person.java,9\0\90c7020ada8815aa4bafef41ac24daa326e9de36
+X
+(src/main/java/encapsulation/Product.java,a\6\a63caa54dad45e0f59ddef7b9125bc28e8787d82
+U
+%src/main/java/encapsulation/Test.java,8\7\874ac74751b0bc3c5ca88be65c5258a8d87b4d37
+O
+src/main/java/methods/Test.java,7\c\7c8fd3dc7e21a7332b9b34aa6911aea27b491c8b
+W
+'src/main/java/HomeWork5/PetActions.java,9\4\9497779a81547c24c2dc485069ad75d883a13e7a
+Q
+!src/main/java/HomeWork5/Test.java,2\c\2c881fb54ff99723961ce9011080afd655836c42
+P
+ src/main/java/HomeWork5/Pet.java,d\c\dc724b104eafe47555ca7017684529290af7ba8e
+P
+ src/main/java/HomeWork5/Cat.java,7\a\7a82f227aa7ae4e6d79aefb945230ff8562b025b
+R
+"src/main/java/HomeWork5/Breed.java,b\e\be6bf443efed74e78f581ca7d7378d8a095ceb35
+T
+$src/main/java/HomeWork5/Address.java,3\b\3b3e6fe3577fa246762dd05f1db2f505ad1dfc62
+N
+src/main/java/access/Test.java,9\1\9156beaa9bc7ad22303206344b03387b29acb4cc
+O
+src/main/java/access2/Test.java,b\5\b593338ec8978bb060cb2f7e175b0c765f795b31
