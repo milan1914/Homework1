@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì˜†åúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ½˜×þÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(Áäèîüÿÿÿÿ
+n
+java:S34571"Q%n should be used in place of \n to produce the platform-specific line separator.(õÝ…³8©¢µÆñ/
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(õÝ…³
+Q	java:S1250"<This block of commented-out lines of code should be removed.(æô”
+Q	java:S1252"<This block of commented-out lines of code should be removed.(¡Õ±š
++
+java:S22758"Not enough arguments.(í…Îª
+g
+java:S34578"Q%n should be used in place of \n to produce the platform-specific line separator.(í…Îª
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(í…Îª
+I
+java:S1481;".Remove this unused "itemNames" local variable.(ÐÏö’ÿÿÿÿÿ
+Œ
+java:S1319$"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(®äö‰øÿÿÿÿ
+`
+java:S11557">Use isEmpty() to check whether the collection is empty or not.(œëÌäúÿÿÿÿ8©¢µÆñ/
+>
+java:S1643>"Use a StringBuilder instead.(»º×Éýÿÿÿÿ8©¢µÆñ/
+9
+java:S1643@"Use a StringBuilder instead.(ÁƒìÅ8È¢µÆñ/
