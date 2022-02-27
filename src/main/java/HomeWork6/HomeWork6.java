@@ -18,6 +18,7 @@ public class HomeWork6 {
             System.out.println("Invalid Password! Password must be at least 8 symbols and must contain one special character and one number!");
         }
         System.out.println("\n-.-.-.-.-.-.-.-.-.-.-.-\n");
+
         //positive numbers
         System.out.println("Please enter 3 numbers and we will tell you if they are positive numbers");
         int n1 = scanner.nextInt();
@@ -30,6 +31,7 @@ public class HomeWork6 {
             System.out.println("At least one number is negative.");
         }
         System.out.println("\n-.-.-.-.-.-.-.-.-.-.-.-.\n");
+
         //equal numbers
         System.out.println("Please enter 3 numbers and I will check if all of them are equal:");
         int firstNumber = scanner.nextInt();
@@ -61,7 +63,7 @@ public class HomeWork6 {
         System.out.println("Calling second method with the parameters of the first. Result is: " + sumOfTwo(averageOfTwo(2,3),averageOfTwo(6,7)));
     }
 
-    //write a method that check if entered 3 numbers are equal and positive
+
     public static boolean Password_Validation(String password){
         if (password.length() < 8 ) {
             return false;
@@ -80,17 +82,13 @@ public class HomeWork6 {
     public static boolean checkIfPositive(int n1, int n2, int n3) {
         return n1 >= 0 && n2 >= 0 && n3 >= 0;
     }
-
     public static boolean checkIfEqual(int n1, int n2, int n3) {
         return n1 == n2 && n2 == n3;
     }
-
     public static double averageOfTwo(double n1, double n2){
         return (n1 + n2) / 2;
     }
-
     public static double sumOfTwo(double n1, double n2) {
         return n1 + n2;
     }
-
 }
